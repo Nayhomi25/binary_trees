@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include <limits.h>
 
 size_t binary_tree_height(const binary_tree_t *tree);
 int btia_helper(const binary_tree_t *tree, int min, int max);
