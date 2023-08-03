@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_nodes - coints nodes with at least 1 child
- * @ tree pointer to root node
+ * @tree: pointer to root node
  * Return: no of nodes or 0 if tree is NULL
  */
 

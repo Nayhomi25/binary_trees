@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_full - checks if a binary tree is full
- * @ree: poimter to root node
+ * @tree: poimter to root node
  * Return: 0 if tree is NULL
  */
 
